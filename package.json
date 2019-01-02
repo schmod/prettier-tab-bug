@@ -1,0 +1,14 @@
+{
+  "name": "prettier-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "pretty-fix": "prettier --write \"**/*.js\""
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^1.15.3"
+  }
+}
