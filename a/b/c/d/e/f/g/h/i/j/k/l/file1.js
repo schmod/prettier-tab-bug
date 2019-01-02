@@ -1,5 +1,5 @@
 export default () => ({
-  thing: {
-    marginRight: '1px'
-  }
+	thing: {
+		marginRight: '1px'
+	}
 });
